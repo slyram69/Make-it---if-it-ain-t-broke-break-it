@@ -8,10 +8,10 @@ the website from 1&1 myWebsite and I helped her choose the template and upload t
 of the Jewelry.
 
 “category”:
-item name
-color
-size
-price
+"item name":
+"color":
+"size":
+"price":
 
 the above items are in my database and the category is the object, when products are selected and colors and sizes are selected
 the database will push the selection to the cart and at that point the customer will decide on the quantity. So the only relation is
